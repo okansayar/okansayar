@@ -1,4 +1,4 @@
-[![MasterHead](https://www.eamalgame.com/wp-content/uploads/2019/07/Game_Development.png)
+[![MasterHead](https://www.filamentgames.com/wp-content/uploads/2022/04/BlogHeaders-multiplayer-red-1024x350.png)
 
 
 
@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@okansayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@okansayar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@okan-sayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@okansayar" height="30" width="40" /></a>
 <a href="https://discord.gg/okansayaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="okansayaar" height="30" width="40" /></a>
 </p>
 
